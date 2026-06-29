@@ -136,21 +136,6 @@ python tests/test_system.py
 
 ---
 
-## 📸 Screenshots Placeholder
-
-### 1. User Input Interface
-*User interface showcasing headline/article inputs and settings sidebars.*
-![Input Interface Screenshot](https://raw.githubusercontent.com/placeholder-images/veri-truth-input.png)
-
-### 2. Multi-Agent Verification Progress
-*Active execution displaying live status updates of the Scanner, Researcher, and Fact Checker Agents.*
-![Progress Spinner Screenshot](https://raw.githubusercontent.com/placeholder-images/veri-truth-progress.png)
-
-### 3. Verdict Summary Cards
-*Completed reports highlighting Verification Status, Confidence meters, Reasonings, and Evidence expanders.*
-![Verdict Output Screenshot](https://raw.githubusercontent.com/placeholder-images/veri-truth-output.png)
-
----
 
 ## 🔮 Future Scope
 
